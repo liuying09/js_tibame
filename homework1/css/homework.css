@@ -107,8 +107,8 @@ p {
 }
 .picture {
     width: 260px;
-    height: 370px;
-    background-image: url("../img/img1.png");
+    height: 390px;
+    /* background-image: url("../img/img1.png"); */
     background-size: cover;
     position: absolute;
     top: -170px;
@@ -149,7 +149,7 @@ p {
 .p1 {
     width: 60px;
     height: 85px;
-    background-image: url("../img/img1.png");
+    /* background-image: url("../img/img1.png"); */
     background-size: cover;
     position:absolute;
     top: 470px;
@@ -159,7 +159,7 @@ p {
 .p2 {
     width: 60px;
     height: 85px;
-    background-image: url("../img/img2.png");
+    /* background-image: url("../img/img2.png"); */
     background-size: cover;
     position:absolute;
     top: 470px;
@@ -169,7 +169,7 @@ p {
 .p3 {
     width: 60px;
     height: 85px;
-    background-image: url("../img/img3.png");
+    /* background-image: url("../img/img3.png"); */
     background-size: cover;
     position:absolute;
     top: 470px;
