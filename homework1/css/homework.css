@@ -132,18 +132,21 @@ p {
     width: 23px;
     height: 23px;
     background-size: cover;
+    cursor: pointer;
 }
 .twitter {
     background-image: url("../img/twitter.png");
     width: 23px;
     height: 23px;
     background-size: cover;
+    cursor: pointer;
 }
 .fb {
     background-image: url("../img/facebook.png");
     width: 23px;
     height: 23px;
     background-size: cover;
+    cursor: pointer;
 }
 
 .p1 {
@@ -154,6 +157,7 @@ p {
     position:absolute;
     top: 470px;
     left: 540px;
+    cursor: pointer;
 }
 
 .p2 {
@@ -164,6 +168,7 @@ p {
     position:absolute;
     top: 470px;
     left: 610px;
+    cursor: pointer;
 }
 
 .p3 {
@@ -174,4 +179,5 @@ p {
     position:absolute;
     top: 470px;
     left: 680px;
+    cursor: pointer;
 }
